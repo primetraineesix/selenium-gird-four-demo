@@ -19,8 +19,8 @@ public class SauceLabsDemo {
     //https://wiki.saucelabs.com/display/DOCS/Example+Selenium+Scripts+for+Automated+Website+Tests
     //https://wiki.saucelabs.com/display/DOCS/Java+Test+Setup+Example
     public WebDriver driver;
-    public static final String USERNAME = "oauth-j.vaghani2022-ee7eb";
-    public static final String ACCESS_KEY = "a79e170d-6a27-413b-86d1-33a89810b619";
+    public static final String USERNAME = "";
+    public static final String ACCESS_KEY = "";
 
     @BeforeMethod
     public void setUp() throws MalformedURLException {
